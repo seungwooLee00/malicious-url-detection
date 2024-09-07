@@ -1,0 +1,6 @@
+torch
+transformers
+
+fasttext
+esprima
+numpy==1.23
