@@ -1,6 +1,6 @@
 #!/bin/bash
-# 서비스에 배포한 양자화 모델을 팀 저장소(racheliee/kisia-project)의 고정 커밋에서 내려받습니다.
-# 사용법: deploy 폴더에서 `bash download_models.sh`
+# Download the quantized models used in the deployed service from a pinned commit of the team repo (racheliee/kisia-project).
+# Usage: run `bash download_models.sh` (from any directory).
 set -euo pipefail
 
 COMMIT=4e488ea5ec4d87ac757db4e04c8b5938d523f5b8
