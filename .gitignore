@@ -1,0 +1,5 @@
+# deploy/download_models.sh 로 받는 배포 모델
+deploy/url_model/model-q.onnx
+deploy/url_model/tokenizer/
+deploy/static_model/model50-q.bin
+__pycache__/

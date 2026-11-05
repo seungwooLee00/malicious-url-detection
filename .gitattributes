@@ -1,0 +1,2 @@
+url_model/model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+static_model/model.bin filter=lfs diff=lfs merge=lfs -text
